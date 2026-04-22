@@ -14,7 +14,7 @@
 - 💬 I’m looking to collaborate on Projects.
 <h2>
   
-## 🙋‍♀️ Let's Connect
+## Let's Connect <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <p align="center">
   <a href="https://gmail.com/belenvera838"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
   <a href="https://github.com/Belen-vra"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
