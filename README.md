@@ -12,6 +12,12 @@
 - 🌱 I’m currently learning Git, Java y GitHub.
   
 - 💬 I’m looking to collaborate on Projects.
-
 <h2>
-
+  
+## 🙋‍♀️ Let's Connect
+<p align="center">
+  <a href="mailto:belenvera838@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+  <a href="https://github.com/Belen-vra"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+  <a href="https://linkedin.com/in/TU_PERFIL"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+  <a href="https://instagram.com/belen.vr__"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+</p>
