@@ -3,18 +3,15 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23FFB7C5&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+Science+Student;Competitive+Programmer;Always+learning+new+things"></a>
 </p>
 
+<h2> About Me </h2>
 
-<!--
-**Belen-vra/Belen-vra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-Here are some ideas to get you started:
+- 🔭 I’m currently tudying for a bachelor's degree in information systems.
+  
+- 🌱 I’m currently learning Git, Java y GitHub.
+  
+- 💬 I’m looking to collaborate on Projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>
+
