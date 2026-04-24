@@ -9,7 +9,7 @@
 
 <h2> About Me </h2>
 
-- 🔭 I’m currently tudying for a bachelor's degree in information systems.
+- 🔭 I’m currently studying for a bachelor's degree in information systems.
   
 - 🌱 I’m currently learning Git, Java y GitHub.
   
